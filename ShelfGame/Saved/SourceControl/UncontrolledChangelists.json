@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/ThirdPersonImport/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap",
+				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset",
 				"D:/Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap",
 				"D:/Game Engines/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content/Modules/Meshes/SKM_Biped_Template.uasset",
 				"D:/Game Engines/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Modules/Meshes/SKM_Root_Template.uasset",
