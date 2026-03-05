@@ -3039,3 +3039,1718 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.05-11.41.30:461][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
 [2026.03.05-11.41.30:496][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
 [2026.03.05-11.41.30:528][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.05-11.43.39:966][932]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.03.05-11.43.39:985][932]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.03.05-11.43.40:004][933]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.03.05-11.43.42:472][ 82]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2026.03.05-11.43.42:473][ 82]LogContentBrowser: End creating deferred item NewInputAction
+[2026.03.05-11.43.44:688][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.05-11.43.44:697][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.43.44:789][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.03.05-11.43.44:789][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Input/Actions/IA_Interact]
+[2026.03.05-11.43.44:798][211]LogSavePackage: Moving output files for package: /Game/Character/Input/Actions/IA_Interact
+[2026.03.05-11.43.44:798][211]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/IA_InteractA3F6EFA14BF32EAA3DF2A8B21ED561D9.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/Input/Actions/IA_Interact.uasset'
+[2026.03.05-11.43.44:809][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.606 ms (total: 7.81 sec)
+[2026.03.05-11.43.44:930][211]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.43.44:930][211]LogContentValidation: Enabled validators:
+[2026.03.05-11.43.44:930][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.43.44:930][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.43.44:930][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.43.44:930][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.43.44:930][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.43.44:930][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.43.44:930][211]AssetCheck: /Game/Character/Input/Actions/IA_Interact Validating asset
+[2026.03.05-11.43.44:954][211]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-11.44.00:949][140]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Character/Input/IMC_Default.IMC_Default
+[2026.03.05-11.44.20:479][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.05-11.44.20:484][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.44.20:566][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Input/IMC_Default] ([1] browsable assets)...
+[2026.03.05-11.44.20:566][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Input/IMC_Default]
+[2026.03.05-11.44.20:566][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Input/IMC_Default" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/Input/IMC_Default.uasset" SILENT=true
+[2026.03.05-11.44.20:576][254]LogSavePackage: Moving output files for package: /Game/Character/Input/IMC_Default
+[2026.03.05-11.44.20:576][254]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/IMC_Default09C6471B488AE3423AB75C9BC20B0CA6.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/Input/IMC_Default.uasset'
+[2026.03.05-11.44.20:585][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.405 ms (total: 7.91 sec)
+[2026.03.05-11.44.20:691][254]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.44.20:691][254]LogContentValidation: Enabled validators:
+[2026.03.05-11.44.20:691][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.44.20:691][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.44.20:691][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.44.20:691][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.44.20:691][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.44.20:691][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.44.20:691][254]AssetCheck: /Game/Character/Input/IMC_Default Validating asset
+[2026.03.05-11.44.23:843][417]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Character/Input/Actions/IA_Interact.IA_Interact
+[2026.03.05-11.47.02:379][778]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2022.423706
+[2026.03.05-11.47.02:613][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-11.47.02:613][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2022.640381, Update Interval: 337.409576
+[2026.03.05-11.47.08:210][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.47.08:290][126]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.47.08:374][126]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.47.08:374][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.47.08:374][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.47.08:393][126]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.47.08:393][126]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player1E28221E4D0D65E70E8E058A9BBC5362.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.47.08:402][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.881 ms (total: 8.10 sec)
+[2026.03.05-11.47.08:516][126]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.47.08:516][126]LogContentValidation: Enabled validators:
+[2026.03.05-11.47.08:516][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.47.08:516][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.47.08:516][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.47.08:516][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.47.08:516][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.47.08:516][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.47.08:516][126]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.47.11:546][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.47.11:636][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.47.11:712][304]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.47.11:712][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.47.11:712][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.47.11:730][304]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.47.11:731][304]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerCFE1ACA14D002BFAEC5F58BD084DABEC.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.47.11:740][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.264 ms (total: 8.29 sec)
+[2026.03.05-11.47.11:844][304]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.47.11:844][304]LogContentValidation: Enabled validators:
+[2026.03.05-11.47.11:844][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.47.11:844][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.47.11:844][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.47.11:844][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.47.11:844][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.47.11:844][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.47.11:844][304]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.47.17:218][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.47.17:297][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.47.17:374][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.47.17:374][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.47.17:374][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.47.17:391][611]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.47.17:391][611]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerEC3A9125481AEA2F9AF700970F4A785F.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.47.17:402][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.762 ms (total: 8.48 sec)
+[2026.03.05-11.47.17:515][611]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.47.17:515][611]LogContentValidation: Enabled validators:
+[2026.03.05-11.47.17:516][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.47.17:516][611]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.47.17:516][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.47.17:516][611]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.47.17:516][611]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.47.17:516][611]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.47.17:516][611]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.47.19:568][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.05-11.47.20:555][784]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.47.20:561][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.47.20:562][784]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.47.20:565][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003292s)
+[2026.03.05-11.47.20:565][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003341s)
+[2026.03.05-11.47.20:597][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.05-11.47.20:601][784]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.47.20:603][784]LogPlayLevel: PIE: World Init took: (0.001896s)
+[2026.03.05-11.47.20:604][784]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.03.05-11.47.20:604][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.47.20:604][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.47.20:604][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.47.20:604][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.47.20:604][784]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.47.20:604][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.47.20:604][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.47.20:604][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.47.20:604][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.47.20:604][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.47.20:604][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.47.20:606][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.47.20:623][784]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.47.20:623][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.47.20:623][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.47.20:623][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.47.20:624][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.03.05-11.47.20:624][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.03.05-11.47.20:626][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.03.05-11.47.20:626][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.03.05-11.47.20:626][784]LogInit: FAudioDevice initialized with ID 16.
+[2026.03.05-11.47.20:626][784]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestLevel'.
+[2026.03.05-11.47.20:626][784]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.05-11.47.20:631][784]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.47.20:632][784]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.47.20
+[2026.03.05-11.47.20:632][784]LogWorld: Bringing up level for play took: 0.001002
+[2026.03.05-11.47.20:635][784]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.03.05-11.47.20:640][784]PIE: Server logged in
+[2026.03.05-11.47.20:642][784]PIE: Play in editor total start time 0.081 seconds.
+[2026.03.05-11.47.20:726][785]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.47.22:779][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.47.22:779][903]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.47.22:779][903]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.47.22:780][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.47.22:783][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.47.22:789][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.47.22:819][903]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-11.47.22:819][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.05-11.47.22:820][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.03.05-11.47.22:822][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.03.05-11.47.22:826][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.47.22:828][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.05-11.47.22:880][904]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.03.05-11.47.42:444][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.47.42:534][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.47.42:612][980]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.47.42:612][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.47.42:612][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.47.42:631][980]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.47.42:632][980]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerB35956764D41CB5E1FC3D697615B9D28.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.47.42:641][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.056 ms (total: 8.67 sec)
+[2026.03.05-11.47.42:740][980]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.47.42:741][980]LogContentValidation: Enabled validators:
+[2026.03.05-11.47.42:741][980]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.47.42:741][980]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.47.42:741][980]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.47.42:741][980]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.47.42:741][980]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.47.42:741][980]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.47.42:741][980]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.47.43:323][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.05-11.47.44:180][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.47.44:261][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.47.44:338][ 56]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.47.44:338][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.47.44:338][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.47.44:356][ 56]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.47.44:357][ 56]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player104F471E463EEC307830BFA180FE9C8B.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.47.44:365][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.857 ms (total: 8.86 sec)
+[2026.03.05-11.47.44:488][ 56]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.47.44:488][ 56]LogContentValidation: Enabled validators:
+[2026.03.05-11.47.44:488][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.47.44:488][ 56]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.47.44:488][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.47.44:488][ 56]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.47.44:488][ 56]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.47.44:488][ 56]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.47.44:488][ 56]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.47.46:324][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.47.46:331][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.47.46:332][164]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.47.46:335][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003044s)
+[2026.03.05-11.47.46:335][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003086s)
+[2026.03.05-11.47.46:366][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.05-11.47.46:370][164]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.47.46:372][164]LogPlayLevel: PIE: World Init took: (0.001895s)
+[2026.03.05-11.47.46:373][164]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.03.05-11.47.46:373][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.47.46:373][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.47.46:373][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.47.46:373][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.47.46:373][164]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.47.46:373][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.47.46:373][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.47.46:373][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.47.46:373][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.47.46:373][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.47.46:373][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.47.46:375][164]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.47.46:390][164]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.47.46:390][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.47.46:390][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.47.46:390][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.47.46:391][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.03.05-11.47.46:391][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.03.05-11.47.46:393][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.03.05-11.47.46:393][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.03.05-11.47.46:393][164]LogInit: FAudioDevice initialized with ID 17.
+[2026.03.05-11.47.46:393][164]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestLevel'.
+[2026.03.05-11.47.46:393][164]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.05-11.47.46:397][164]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.47.46:399][164]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.47.46
+[2026.03.05-11.47.46:399][164]LogWorld: Bringing up level for play took: 0.000970
+[2026.03.05-11.47.46:402][164]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.03.05-11.47.46:407][164]PIE: Server logged in
+[2026.03.05-11.47.46:409][164]PIE: Play in editor total start time 0.078 seconds.
+[2026.03.05-11.47.46:493][165]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.47.52:559][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.47.52:559][523]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.47.52:559][523]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.47.52:559][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.47.52:563][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.47.52:569][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.47.52:594][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-11.47.52:595][523]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.05-11.47.52:595][523]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.03.05-11.47.52:596][523]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.03.05-11.47.52:601][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.47.52:604][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.05-11.47.52:659][524]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.03.05-11.47.57:579][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.47.57:661][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.47.57:739][796]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.47.57:739][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.47.57:739][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.47.57:756][796]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.47.57:757][796]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player4A978EB14C08B9AEF6E2D688F3BDA6C8.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.47.57:767][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.322 ms (total: 9.05 sec)
+[2026.03.05-11.47.57:867][796]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.47.57:867][796]LogContentValidation: Enabled validators:
+[2026.03.05-11.47.57:867][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.47.57:867][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.47.57:867][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.47.57:867][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.47.57:867][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.47.57:867][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.47.57:868][796]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.47.58:236][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.05-11.47.59:128][862]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.47.59:135][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.47.59:135][862]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.47.59:138][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003069s)
+[2026.03.05-11.47.59:138][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003107s)
+[2026.03.05-11.47.59:171][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.03.05-11.47.59:175][862]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.47.59:176][862]LogPlayLevel: PIE: World Init took: (0.001920s)
+[2026.03.05-11.47.59:178][862]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.03.05-11.47.59:178][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.47.59:178][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.47.59:178][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.47.59:178][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.47.59:178][862]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.47.59:178][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.47.59:178][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.47.59:178][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.47.59:178][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.47.59:178][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.47.59:178][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.47.59:180][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.47.59:196][862]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.47.59:196][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.47.59:196][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.47.59:196][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.47.59:196][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.03.05-11.47.59:196][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.03.05-11.47.59:199][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.03.05-11.47.59:199][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.03.05-11.47.59:199][862]LogInit: FAudioDevice initialized with ID 18.
+[2026.03.05-11.47.59:199][862]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestLevel'.
+[2026.03.05-11.47.59:199][862]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.03.05-11.47.59:204][862]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.47.59:205][862]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.47.59
+[2026.03.05-11.47.59:205][862]LogWorld: Bringing up level for play took: 0.000979
+[2026.03.05-11.47.59:208][862]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.03.05-11.47.59:212][862]PIE: Server logged in
+[2026.03.05-11.47.59:214][862]PIE: Play in editor total start time 0.08 seconds.
+[2026.03.05-11.47.59:296][863]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.48.03:449][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.48.03:449][107]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.48.03:449][107]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.48.03:449][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.48.03:453][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.48.03:459][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.48.03:490][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-11.48.03:490][107]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.03.05-11.48.03:490][107]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.03.05-11.48.03:492][107]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.03.05-11.48.03:497][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.48.03:501][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.05-11.48.03:554][108]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.03.05-11.48.14:483][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.48.14:565][740]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.48.14:642][740]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.48.14:642][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.48.14:642][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.48.14:660][740]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.48.14:661][740]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player196BC4794DED550E72CDF4A9D73AAA71.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.48.14:670][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.996 ms (total: 9.24 sec)
+[2026.03.05-11.48.14:778][740]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.48.14:778][740]LogContentValidation: Enabled validators:
+[2026.03.05-11.48.14:778][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.48.14:778][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.48.14:778][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.48.14:778][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.48.14:778][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.48.14:778][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.48.14:778][740]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.48.15:348][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.03.05-11.48.16:353][825]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.48.16:360][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.48.16:360][825]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.48.16:363][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003157s)
+[2026.03.05-11.48.16:363][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003202s)
+[2026.03.05-11.48.16:395][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.03.05-11.48.16:399][825]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.48.16:401][825]LogPlayLevel: PIE: World Init took: (0.001965s)
+[2026.03.05-11.48.16:402][825]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.03.05-11.48.16:402][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.48.16:402][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.48.16:402][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.48.16:402][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.48.16:402][825]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.48.16:402][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.48.16:402][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.48.16:402][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.48.16:402][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.48.16:402][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.48.16:402][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.48.16:404][825]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.48.16:419][825]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.48.16:421][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.48.16:421][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.48.16:421][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.48.16:421][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.03.05-11.48.16:421][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.03.05-11.48.16:424][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.03.05-11.48.16:424][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.03.05-11.48.16:424][825]LogInit: FAudioDevice initialized with ID 19.
+[2026.03.05-11.48.16:424][825]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestLevel'.
+[2026.03.05-11.48.16:424][825]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.03.05-11.48.16:429][825]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.48.16:429][825]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.48.16
+[2026.03.05-11.48.16:430][825]LogWorld: Bringing up level for play took: 0.000980
+[2026.03.05-11.48.16:432][825]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.03.05-11.48.16:438][825]PIE: Server logged in
+[2026.03.05-11.48.16:440][825]PIE: Play in editor total start time 0.08 seconds.
+[2026.03.05-11.48.16:523][826]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.48.18:449][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.48.18:449][936]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.48.18:449][936]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.48.18:449][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.48.18:453][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.48.18:458][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.48.18:486][936]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-11.48.18:486][936]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.03.05-11.48.18:486][936]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.03.05-11.48.18:489][936]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.03.05-11.48.18:493][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.48.18:496][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.05-11.48.18:551][937]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.03.05-11.48.24:246][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.48.24:333][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.48.24:416][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.48.24:416][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.48.24:416][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.48.24:436][270]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.48.24:436][270]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerD7853380466B5DE85B6E63AF12D396ED.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.48.24:445][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.106 ms (total: 9.43 sec)
+[2026.03.05-11.48.24:555][270]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.48.24:555][270]LogContentValidation: Enabled validators:
+[2026.03.05-11.48.24:555][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.48.24:555][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.48.24:555][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.48.24:555][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.48.24:555][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.48.24:555][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.48.24:555][270]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.48.25:223][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.03.05-11.48.26:071][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.48.26:077][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.48.26:077][351]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.48.26:081][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003356s)
+[2026.03.05-11.48.26:081][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003400s)
+[2026.03.05-11.48.26:113][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.05-11.48.26:118][351]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.48.26:120][351]LogPlayLevel: PIE: World Init took: (0.002004s)
+[2026.03.05-11.48.26:121][351]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.03.05-11.48.26:121][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.48.26:121][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.48.26:121][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.48.26:121][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.48.26:121][351]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.48.26:121][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.48.26:121][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.48.26:121][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.48.26:121][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.48.26:121][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.48.26:121][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.48.26:124][351]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.48.26:137][351]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.48.26:139][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.48.26:139][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.48.26:139][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.48.26:139][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.03.05-11.48.26:139][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.03.05-11.48.26:141][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.03.05-11.48.26:141][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.03.05-11.48.26:141][351]LogInit: FAudioDevice initialized with ID 20.
+[2026.03.05-11.48.26:141][351]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestLevel'.
+[2026.03.05-11.48.26:142][351]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.05-11.48.26:146][351]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.48.26:147][351]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.48.26
+[2026.03.05-11.48.26:147][351]LogWorld: Bringing up level for play took: 0.000958
+[2026.03.05-11.48.26:149][351]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.03.05-11.48.26:154][351]PIE: Server logged in
+[2026.03.05-11.48.26:156][351]PIE: Play in editor total start time 0.079 seconds.
+[2026.03.05-11.48.26:238][352]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.48.32:478][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.48.32:478][721]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.48.32:480][721]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.48.32:480][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.48.32:484][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.48.32:489][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.48.32:517][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-11.48.32:517][721]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.05-11.48.32:517][721]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.03.05-11.48.32:519][721]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.03.05-11.48.32:524][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.48.32:526][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.05-11.48.32:579][722]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.03.05-11.48.48:590][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.48.48:678][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.05-11.48.48:728][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.03.05-11.48.48:748][566]LogSavePackage: Moving output files for package: /Game/TestLevel
+[2026.03.05-11.48.48:749][566]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/TestLevel649DFD5B44072FED133CBDB3DB029DDC.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap'
+[2026.03.05-11.48.48:756][566]LogFileHelpers: Saving map 'TestLevel' took 0.078
+[2026.03.05-11.48.48:773][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.485 ms (total: 9.62 sec)
+[2026.03.05-11.48.48:874][566]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.48.48:874][566]LogContentValidation: Enabled validators:
+[2026.03.05-11.48.48:874][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.48.48:874][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.48.48:874][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.48.48:874][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.48.48:874][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.48.48:874][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.48.48:874][566]AssetCheck: /Game/TestLevel Validating asset
+[2026.03.05-11.49.09:013][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.49.09:192][687]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.03.05-11.49.09:192][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Input/Actions/IA_Interact]
+[2026.03.05-11.49.09:201][687]LogSavePackage: Moving output files for package: /Game/Character/Input/Actions/IA_Interact
+[2026.03.05-11.49.09:202][687]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/IA_Interact2535399C44A1032DB8E27D9B6D7E1F74.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/Input/Actions/IA_Interact.uasset'
+[2026.03.05-11.49.09:274][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 260.415 ms (total: 9.88 sec)
+[2026.03.05-11.49.09:413][687]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.49.09:413][687]LogContentValidation: Enabled validators:
+[2026.03.05-11.49.09:413][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.49.09:413][687]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.49.09:413][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.49.09:413][687]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.49.09:413][687]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.49.09:413][687]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.49.09:413][687]AssetCheck: /Game/Character/Input/Actions/IA_Interact Validating asset
+[2026.03.05-11.49.10:397][743]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.49.10:403][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.49.10:403][743]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.49.10:407][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003111s)
+[2026.03.05-11.49.10:407][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003151s)
+[2026.03.05-11.49.10:439][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.05-11.49.10:444][743]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.49.10:446][743]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2026.03.05-11.49.10:447][743]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.03.05-11.49.10:447][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.49.10:447][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.49.10:447][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.49.10:447][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.49.10:447][743]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.49.10:447][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.49.10:447][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.49.10:447][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.49.10:447][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.49.10:447][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.49.10:447][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.49.10:449][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.49.10:466][743]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.49.10:466][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.49.10:466][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.49.10:468][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.49.10:468][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.03.05-11.49.10:468][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.03.05-11.49.10:470][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.03.05-11.49.10:470][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.03.05-11.49.10:470][743]LogInit: FAudioDevice initialized with ID 21.
+[2026.03.05-11.49.10:470][743]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestLevel'.
+[2026.03.05-11.49.10:470][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.05-11.49.10:475][743]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.49.10:476][743]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.49.10
+[2026.03.05-11.49.10:476][743]LogWorld: Bringing up level for play took: 0.000972
+[2026.03.05-11.49.10:478][743]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.03.05-11.49.10:483][743]PIE: Server logged in
+[2026.03.05-11.49.10:485][743]PIE: Play in editor total start time 0.082 seconds.
+[2026.03.05-11.49.10:567][744]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.49.15:469][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.49.15:469][ 32]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.49.15:469][ 32]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.49.15:469][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.49.15:473][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.49.15:478][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.49.15:508][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.49.15:508][ 32]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.05-11.49.15:508][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.03.05-11.49.15:510][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.03.05-11.49.15:518][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.05-11.49.15:598][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.03.05-11.49.57:652][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.49.57:735][ 70]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.49.57:818][ 70]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.49.57:818][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.49.57:818][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.49.57:837][ 70]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.49.57:837][ 70]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player6103A9D543BF284BD5A5D89830B5983E.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.49.57:847][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.392 ms (total: 10.0 sec)
+[2026.03.05-11.49.57:952][ 70]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.49.57:952][ 70]LogContentValidation: Enabled validators:
+[2026.03.05-11.49.57:952][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.49.57:952][ 70]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.49.57:952][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.49.57:952][ 70]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.49.57:952][ 70]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.49.57:952][ 70]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.49.57:953][ 70]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.50.21:424][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.50.21:507][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.50.21:584][371]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.50.21:584][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.50.21:584][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.50.21:603][371]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.50.21:603][371]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player7A63E5914B0438EB555DEBB6337D1FD0.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.50.21:614][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.836 ms (total: 10.2 sec)
+[2026.03.05-11.50.21:724][371]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.50.21:724][371]LogContentValidation: Enabled validators:
+[2026.03.05-11.50.21:724][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.50.21:724][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.50.21:724][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.50.21:724][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.50.21:724][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.50.21:724][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.50.21:725][371]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.50.23:892][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.50.23:977][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.50.23:977][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.50.23:977][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.50.23:996][501]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.50.23:996][501]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player8839815941DCF97337B25BBD4351FBA3.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.50.24:005][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.603 ms (total: 10.3 sec)
+[2026.03.05-11.50.24:125][501]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.50.24:125][501]LogContentValidation: Enabled validators:
+[2026.03.05-11.50.24:125][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.50.24:125][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.50.24:125][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.50.24:125][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.50.24:125][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.50.24:125][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.50.24:126][501]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.52.13:441][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.52.13:532][218]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.52.13:609][218]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.52.13:609][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.52.13:609][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.52.13:629][218]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.52.13:629][218]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player6E519CEC4F794CD4340F8ABD8F85BBC7.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.52.13:640][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.163 ms (total: 10.5 sec)
+[2026.03.05-11.52.13:737][218]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.52.13:737][218]LogContentValidation: Enabled validators:
+[2026.03.05-11.52.13:737][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.52.13:737][218]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.52.13:737][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.52.13:737][218]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.52.13:737][218]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.52.13:737][218]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.52.13:738][218]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.52.23:710][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.52.23:796][802]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.52.23:878][802]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.52.23:878][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.52.23:878][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.52.23:899][802]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.52.23:899][802]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerF3949B4D44E9D71DD68499B6F931E36A.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.52.23:910][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.357 ms (total: 10.7 sec)
+[2026.03.05-11.52.24:020][802]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.52.24:021][802]LogContentValidation: Enabled validators:
+[2026.03.05-11.52.24:021][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.52.24:021][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.52.24:021][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.52.24:021][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.52.24:021][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.52.24:021][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.52.24:021][802]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.52.37:702][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.52.37:794][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.52.37:871][589]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.52.37:871][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.52.37:871][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.52.37:892][589]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.52.37:893][589]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player1C61BB094D3293D804BDCD983BA58BA8.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.52.37:902][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.498 ms (total: 10.9 sec)
+[2026.03.05-11.52.38:008][589]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.52.38:008][589]LogContentValidation: Enabled validators:
+[2026.03.05-11.52.38:008][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.52.38:008][589]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.52.38:008][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.52.38:008][589]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.52.38:008][589]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.52.38:008][589]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.52.38:008][589]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.52.50:842][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.52.50:925][260]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.52.51:001][260]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.52.51:001][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.52.51:001][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.52.51:024][260]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.52.51:024][260]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerC39D81774F8A354771577E9C5B5CC555.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.52.51:034][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.949 ms (total: 11.1 sec)
+[2026.03.05-11.52.51:143][260]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.52.51:143][260]LogContentValidation: Enabled validators:
+[2026.03.05-11.52.51:143][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.52.51:143][260]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.52.51:143][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.52.51:143][260]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.52.51:143][260]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.52.51:143][260]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.52.51:143][260]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.52.58:221][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.52.58:303][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.52.58:303][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.52.58:303][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.52.58:325][681]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.52.58:325][681]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player8FC690C54749400464A16C882D9788B0.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.52.58:335][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.660 ms (total: 11.2 sec)
+[2026.03.05-11.52.58:460][681]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.52.58:460][681]LogContentValidation: Enabled validators:
+[2026.03.05-11.52.58:460][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.52.58:460][681]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.52.58:460][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.52.58:460][681]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.52.58:460][681]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.52.58:460][681]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.52.58:460][681]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.52.59:921][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.05-11.53.00:609][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.53.00:693][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.53.00:771][798]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.53.00:771][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.53.00:771][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.53.00:793][798]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.53.00:793][798]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player7DBBC2334973DB1C65255F8B1FA5B7C0.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.53.00:802][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.597 ms (total: 11.4 sec)
+[2026.03.05-11.53.00:908][798]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.53.00:908][798]LogContentValidation: Enabled validators:
+[2026.03.05-11.53.00:908][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.53.00:908][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.53.00:908][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.53.00:908][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.53.00:908][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.53.00:908][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.53.00:908][798]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.53.07:525][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.53.07:615][193]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.53.07:615][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.53.07:615][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.53.07:634][193]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.53.07:634][193]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player2FE354F84FF5D5E88C405B9C9C9620A0.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.53.07:645][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.377 ms (total: 11.5 sec)
+[2026.03.05-11.53.07:757][193]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.53.07:757][193]LogContentValidation: Enabled validators:
+[2026.03.05-11.53.07:757][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.53.07:757][193]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.53.07:757][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.53.07:757][193]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.53.07:757][193]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.53.07:757][193]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.53.07:757][193]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.53.08:350][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.03.05-11.53.08:633][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.53.08:723][233]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.53.08:799][233]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.53.08:799][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.53.08:799][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.53.08:820][233]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.53.08:820][233]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player8579518B41892DE8CC40A1A46426359C.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.53.08:830][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.630 ms (total: 11.7 sec)
+[2026.03.05-11.53.08:929][233]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.53.08:929][233]LogContentValidation: Enabled validators:
+[2026.03.05-11.53.08:929][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.53.08:929][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.53.08:929][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.53.08:929][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.53.08:929][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.53.08:929][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.53.08:929][233]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.53.09:051][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.53.09:133][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.53.09:133][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.53.09:133][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.53.09:155][240]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.53.09:155][240]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player5DE2B2B74BE0FB732BEE008F5CC40400.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.53.09:165][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.897 ms (total: 11.9 sec)
+[2026.03.05-11.53.09:271][240]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.53.09:272][240]LogContentValidation: Enabled validators:
+[2026.03.05-11.53.09:272][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.53.09:272][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.53.09:272][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.53.09:272][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.53.09:272][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.53.09:272][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.53.09:272][240]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.53.37:402][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2417.451172
+[2026.03.05-11.53.37:569][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-11.53.37:569][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2417.601074, Update Interval: 353.926208
+[2026.03.05-11.53.41:118][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.53.41:205][ 69]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_NPC] ([2] browsable assets)...
+[2026.03.05-11.53.41:211][ 69]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_NPC.BP_NPC]
+[2026.03.05-11.53.41:211][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_NPC]
+[2026.03.05-11.53.41:211][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset" SILENT=true
+[2026.03.05-11.53.41:223][ 69]LogSavePackage: Moving output files for package: /Game/BP_NPC
+[2026.03.05-11.53.41:223][ 69]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_NPC39D46B6A4B383C4765135AB9A2552DFD.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset'
+[2026.03.05-11.53.41:234][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.309 ms (total: 12.0 sec)
+[2026.03.05-11.53.41:335][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.53.41:335][ 69]LogContentValidation: Enabled validators:
+[2026.03.05-11.53.41:335][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.53.41:335][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.53.41:335][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.53.41:335][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.53.41:335][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.53.41:335][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.53.41:335][ 69]AssetCheck: /Game/BP_NPC Validating asset
+[2026.03.05-11.53.45:468][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.53.45:552][312]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_NPC] ([2] browsable assets)...
+[2026.03.05-11.53.45:552][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_NPC]
+[2026.03.05-11.53.45:552][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset" SILENT=true
+[2026.03.05-11.53.45:563][312]LogSavePackage: Moving output files for package: /Game/BP_NPC
+[2026.03.05-11.53.45:564][312]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_NPC31658C524461DC78567D808F2D28EF7C.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset'
+[2026.03.05-11.53.45:575][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.548 ms (total: 12.1 sec)
+[2026.03.05-11.53.45:685][312]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.53.45:685][312]LogContentValidation: Enabled validators:
+[2026.03.05-11.53.45:685][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.53.45:685][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.53.45:685][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.53.45:685][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.53.45:685][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.53.45:685][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.53.45:685][312]AssetCheck: /Game/BP_NPC Validating asset
+[2026.03.05-11.53.56:951][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.53.57:035][941]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_NPC] ([2] browsable assets)...
+[2026.03.05-11.53.57:111][941]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_NPC.BP_NPC]
+[2026.03.05-11.53.57:111][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_NPC]
+[2026.03.05-11.53.57:111][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset" SILENT=true
+[2026.03.05-11.53.57:123][941]LogSavePackage: Moving output files for package: /Game/BP_NPC
+[2026.03.05-11.53.57:124][941]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_NPCA09402EC4AD6F42692CFFB9DE5B584E5.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset'
+[2026.03.05-11.53.57:133][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.035 ms (total: 12.3 sec)
+[2026.03.05-11.53.57:236][941]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.53.57:236][941]LogContentValidation: Enabled validators:
+[2026.03.05-11.53.57:236][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.53.57:236][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.53.57:236][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.53.57:236][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.53.57:236][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.53.57:236][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.53.57:236][941]AssetCheck: /Game/BP_NPC Validating asset
+[2026.03.05-11.54.17:849][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.54.17:930][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_NPC] ([2] browsable assets)...
+[2026.03.05-11.54.18:006][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_NPC.BP_NPC]
+[2026.03.05-11.54.18:006][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_NPC]
+[2026.03.05-11.54.18:006][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset" SILENT=true
+[2026.03.05-11.54.18:019][122]LogSavePackage: Moving output files for package: /Game/BP_NPC
+[2026.03.05-11.54.18:019][122]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_NPC249EBE2942F991FF0F929185D305E7F6.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset'
+[2026.03.05-11.54.18:029][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.334 ms (total: 12.4 sec)
+[2026.03.05-11.54.18:130][122]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.54.18:130][122]LogContentValidation: Enabled validators:
+[2026.03.05-11.54.18:130][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.54.18:130][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.54.18:130][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.54.18:130][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.54.18:130][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.54.18:130][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.54.18:130][122]AssetCheck: /Game/BP_NPC Validating asset
+[2026.03.05-11.54.19:485][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.03.05-11.55.20:342][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.55.20:432][813]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.55.20:508][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.55.20:508][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.55.20:508][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.55.20:529][813]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.55.20:530][813]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerCE5287704BA7CEA728F756841C26E151.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.55.20:540][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.649 ms (total: 12.6 sec)
+[2026.03.05-11.55.20:657][813]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.55.20:657][813]LogContentValidation: Enabled validators:
+[2026.03.05-11.55.20:657][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.55.20:657][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.55.20:657][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.55.20:657][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.55.20:657][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.55.20:657][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.55.20:657][813]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.55.22:012][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.55.22:101][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.55.22:101][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.55.22:101][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.55.22:123][894]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.55.22:123][894]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerA69BF70A4AB846DE1674F1BDCEC9DB98.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.55.22:133][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.432 ms (total: 12.8 sec)
+[2026.03.05-11.55.22:259][894]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.55.22:259][894]LogContentValidation: Enabled validators:
+[2026.03.05-11.55.22:259][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.55.22:259][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.55.22:259][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.55.22:259][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.55.22:259][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.55.22:259][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.55.22:259][894]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.55.23:971][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.03.05-11.56.53:490][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.56.53:573][109]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_NPC] ([2] browsable assets)...
+[2026.03.05-11.56.53:651][109]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_NPC.BP_NPC]
+[2026.03.05-11.56.53:651][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_NPC]
+[2026.03.05-11.56.53:651][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset" SILENT=true
+[2026.03.05-11.56.53:665][109]LogSavePackage: Moving output files for package: /Game/BP_NPC
+[2026.03.05-11.56.53:665][109]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_NPCFDBF5B75418807F39EE32FAFCBCC21A5.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset'
+[2026.03.05-11.56.53:674][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.002 ms (total: 12.9 sec)
+[2026.03.05-11.56.53:800][109]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.56.53:800][109]LogContentValidation: Enabled validators:
+[2026.03.05-11.56.53:800][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.56.53:800][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.56.53:800][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.56.53:800][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.56.53:800][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.56.53:800][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.56.53:800][109]AssetCheck: /Game/BP_NPC Validating asset
+[2026.03.05-11.56.54:936][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.56.55:020][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_NPC] ([2] browsable assets)...
+[2026.03.05-11.56.55:020][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_NPC]
+[2026.03.05-11.56.55:020][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset" SILENT=true
+[2026.03.05-11.56.55:033][177]LogSavePackage: Moving output files for package: /Game/BP_NPC
+[2026.03.05-11.56.55:033][177]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_NPC49EAC8B94880F9BE2DCB0EB13738145F.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset'
+[2026.03.05-11.56.55:043][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.955 ms (total: 13.1 sec)
+[2026.03.05-11.56.55:153][177]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.56.55:153][177]LogContentValidation: Enabled validators:
+[2026.03.05-11.56.55:153][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.56.55:153][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.56.55:153][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.56.55:153][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.56.55:153][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.56.55:153][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.56.55:153][177]AssetCheck: /Game/BP_NPC Validating asset
+[2026.03.05-11.56.55:992][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.05-11.56.56:639][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.05-11.56.57:328][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.56.57:411][293]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_NPC] ([2] browsable assets)...
+[2026.03.05-11.56.57:488][293]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_NPC.BP_NPC]
+[2026.03.05-11.56.57:489][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_NPC]
+[2026.03.05-11.56.57:489][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset" SILENT=true
+[2026.03.05-11.56.57:502][293]LogSavePackage: Moving output files for package: /Game/BP_NPC
+[2026.03.05-11.56.57:502][293]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_NPC615B6C17411389CAE6F560A1F7B27F9F.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_NPC.uasset'
+[2026.03.05-11.56.57:512][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.434 ms (total: 13.2 sec)
+[2026.03.05-11.56.57:617][293]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.56.57:617][293]LogContentValidation: Enabled validators:
+[2026.03.05-11.56.57:617][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.56.57:617][293]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.56.57:617][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.56.57:617][293]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.56.57:617][293]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.56.57:617][293]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.56.57:617][293]AssetCheck: /Game/BP_NPC Validating asset
+[2026.03.05-11.57.26:084][983]LogEditorTransaction: Undo Delete current selection
+[2026.03.05-11.57.26:344][985]LogEditorTransaction: Undo Add Node
+[2026.03.05-11.57.26:592][988]LogEditorTransaction: Undo Delete current selection
+[2026.03.05-11.57.27:008][  5]LogEditorTransaction: Undo Delete current selection
+[2026.03.05-11.57.27:369][ 19]LogEditorTransaction: Undo Create Reroute Node
+[2026.03.05-11.57.27:725][ 33]LogEditorTransaction: Undo Move Nodes
+[2026.03.05-11.57.28:911][ 97]LogEditorTransaction: Undo Break Pin Link
+[2026.03.05-11.57.30:133][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.57.30:210][164]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.57.30:294][164]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.57.30:294][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.57.30:294][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.57.30:317][164]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.57.30:318][164]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player58D633C24F8F04BDD2B40BA1D094F394.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.57.30:327][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.736 ms (total: 13.4 sec)
+[2026.03.05-11.57.30:430][164]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.57.30:430][164]LogContentValidation: Enabled validators:
+[2026.03.05-11.57.30:430][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.57.30:430][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.57.30:430][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.57.30:430][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.57.30:430][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.57.30:430][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.57.30:430][164]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.57.33:091][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.57.33:174][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.57.33:174][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.57.33:174][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.57.33:195][321]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.57.33:195][321]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerC5B9C8544E0724EB9A4D70858608D224.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.57.33:206][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.057 ms (total: 13.5 sec)
+[2026.03.05-11.57.33:316][321]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.57.33:316][321]LogContentValidation: Enabled validators:
+[2026.03.05-11.57.33:316][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.57.33:316][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.57.33:316][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.57.33:316][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.57.33:316][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.57.33:316][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.57.33:316][321]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.57.34:203][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.57.34:291][374]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.57.34:291][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.57.34:291][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.57.34:313][374]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.57.34:313][374]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerB89D58314301935BC68166A0A61CF29A.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.57.34:324][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.679 ms (total: 13.7 sec)
+[2026.03.05-11.57.34:431][374]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.57.34:431][374]LogContentValidation: Enabled validators:
+[2026.03.05-11.57.34:431][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.57.34:431][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.57.34:431][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.57.34:431][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.57.34:431][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.57.34:431][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.57.34:431][374]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.57.35:817][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.57.35:906][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.57.35:906][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.57.35:906][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.57.35:926][457]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.57.35:926][457]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerC895DBB2452B99A19AE1DC99CC3EDECE.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.57.35:938][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.626 ms (total: 13.8 sec)
+[2026.03.05-11.57.36:046][457]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.57.36:046][457]LogContentValidation: Enabled validators:
+[2026.03.05-11.57.36:046][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.57.36:046][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.57.36:046][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.57.36:046][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.57.36:046][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.57.36:046][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.57.36:046][457]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.57.38:472][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.05-11.57.38:963][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.57.39:054][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.57.39:130][618]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.57.39:130][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.57.39:130][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.57.39:153][618]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.57.39:153][618]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerF47AF2434A6C270AB9420989EDC56DA7.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.57.39:163][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.018 ms (total: 14.0 sec)
+[2026.03.05-11.57.39:288][618]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.57.39:288][618]LogContentValidation: Enabled validators:
+[2026.03.05-11.57.39:288][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.57.39:288][618]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.57.39:288][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.57.39:288][618]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.57.39:288][618]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.57.39:288][618]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.57.39:288][618]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.57.49:010][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.57.49:016][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.57.49:016][199]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.57.49:019][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003432s)
+[2026.03.05-11.57.49:020][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003476s)
+[2026.03.05-11.57.49:053][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.05-11.57.49:059][199]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.57.49:061][199]LogPlayLevel: PIE: World Init took: (0.001960s)
+[2026.03.05-11.57.49:061][199]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.03.05-11.57.49:061][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.57.49:061][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.57.49:062][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.57.49:062][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.57.49:062][199]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.57.49:062][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.57.49:062][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.57.49:062][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.57.49:062][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.57.49:062][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.57.49:062][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.57.49:064][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.57.49:080][199]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.57.49:080][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.57.49:080][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.57.49:080][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.57.49:081][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.03.05-11.57.49:081][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.03.05-11.57.49:083][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.03.05-11.57.49:083][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.03.05-11.57.49:083][199]LogInit: FAudioDevice initialized with ID 22.
+[2026.03.05-11.57.49:083][199]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestLevel'.
+[2026.03.05-11.57.49:083][199]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.05-11.57.49:088][199]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.57.49:089][199]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.57.49
+[2026.03.05-11.57.49:089][199]LogWorld: Bringing up level for play took: 0.001048
+[2026.03.05-11.57.49:092][199]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.03.05-11.57.49:097][199]PIE: Server logged in
+[2026.03.05-11.57.49:099][199]PIE: Play in editor total start time 0.084 seconds.
+[2026.03.05-11.57.49:182][200]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.57.52:729][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.57.52:729][407]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.57.52:729][407]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.57.52:730][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.57.52:736][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.57.52:741][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.57.52:772][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-11.57.52:772][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.05-11.57.52:772][407]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.03.05-11.57.52:775][407]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.03.05-11.57.52:779][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.57.52:782][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.05-11.57.52:866][408]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.03.05-11.58.00:085][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.58.00:167][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.58.00:167][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.58.00:167][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.58.00:188][828]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.58.00:189][828]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player75682091428E819578C6C2B688E47DAF.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.58.00:199][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.605 ms (total: 14.1 sec)
+[2026.03.05-11.58.00:313][828]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.58.00:313][828]LogContentValidation: Enabled validators:
+[2026.03.05-11.58.00:313][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.58.00:314][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.58.00:314][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.58.00:314][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.58.00:314][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.58.00:314][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.58.00:314][828]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.58.04:164][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.58.04:254][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.58.04:254][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.58.04:254][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.58.04:274][ 46]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.58.04:275][ 46]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_PlayerF7D443F94BF77CA610D2849F69638610.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.58.04:284][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.003 ms (total: 14.2 sec)
+[2026.03.05-11.58.04:383][ 46]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.58.04:383][ 46]LogContentValidation: Enabled validators:
+[2026.03.05-11.58.04:383][ 46]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.58.04:383][ 46]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.58.04:383][ 46]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.58.04:383][ 46]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.58.04:384][ 46]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.58.04:384][ 46]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.58.04:384][ 46]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.58.06:840][176]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.58.06:847][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.58.06:847][176]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.58.06:849][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003140s)
+[2026.03.05-11.58.06:849][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003180s)
+[2026.03.05-11.58.06:881][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.05-11.58.06:885][176]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.58.06:886][176]LogPlayLevel: PIE: World Init took: (0.001889s)
+[2026.03.05-11.58.06:888][176]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.03.05-11.58.06:888][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.58.06:888][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.58.06:888][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.58.06:888][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.58.06:888][176]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.58.06:888][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.58.06:888][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.58.06:888][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.58.06:888][176]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.58.06:888][176]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.58.06:888][176]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.58.06:890][176]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.58.06:906][176]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.58.06:906][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.58.06:906][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.58.06:906][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.58.06:907][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.03.05-11.58.06:907][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.03.05-11.58.06:909][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.03.05-11.58.06:909][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.03.05-11.58.06:909][176]LogInit: FAudioDevice initialized with ID 23.
+[2026.03.05-11.58.06:909][176]LogAudio: Display: Audio Device (ID: 23) registered with world 'TestLevel'.
+[2026.03.05-11.58.06:909][176]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.05-11.58.06:913][176]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.58.06:915][176]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.58.06
+[2026.03.05-11.58.06:915][176]LogWorld: Bringing up level for play took: 0.000998
+[2026.03.05-11.58.06:918][176]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.03.05-11.58.06:923][176]PIE: Server logged in
+[2026.03.05-11.58.06:925][176]PIE: Play in editor total start time 0.079 seconds.
+[2026.03.05-11.58.07:004][177]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.58.07:559][207]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2567
+[2026.03.05-11.58.07:559][207]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Character/BP_Player.BP_Player_C:InpActEvt_IA_Interact_K2Node_EnhancedInputActionEvent_0
+	Function /Game/Character/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+
+[2026.03.05-11.58.12:819][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.58.12:819][207]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.58.12:819][207]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.58.12:820][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.58.12:822][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.58.12:828][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.58.12:856][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.58.12:856][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.05-11.58.12:856][207]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.03.05-11.58.12:858][207]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.03.05-11.58.12:865][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.05-11.58.12:935][208]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.03.05-11.58.15:534][354]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Character/BP_Player.BP_Player without an associated node. The blueprint breakpoint has been removed
+[2026.03.05-11.58.15:534][354]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Character/BP_Player.BP_Player without an associated node. The blueprint breakpoint has been removed
+[2026.03.05-11.58.20:915][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.58.21:004][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.58.21:087][666]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.58.21:087][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.58.21:087][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.58.21:108][666]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.58.21:109][666]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player530FA79D492BC931E326C78D1AF9FF1D.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.58.21:119][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.256 ms (total: 14.4 sec)
+[2026.03.05-11.58.21:229][666]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.58.21:229][666]LogContentValidation: Enabled validators:
+[2026.03.05-11.58.21:229][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.58.21:229][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.58.21:229][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.58.21:229][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.58.21:229][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.58.21:229][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.58.21:230][666]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.58.22:385][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.58.22:472][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.58.22:472][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.58.22:472][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.58.22:494][735]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.58.22:494][735]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player4C05A790485D3ADE3F3739BD67D1FCEF.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.58.22:504][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.844 ms (total: 14.5 sec)
+[2026.03.05-11.58.22:624][735]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.58.22:624][735]LogContentValidation: Enabled validators:
+[2026.03.05-11.58.22:624][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.58.22:624][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.58.22:624][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.58.22:624][735]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.58.22:624][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.58.22:624][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.58.22:624][735]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.58.23:653][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.05-11.58.24:593][836]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.58.24:600][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.58.24:600][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.58.24:603][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002837s)
+[2026.03.05-11.58.24:603][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.002875s)
+[2026.03.05-11.58.24:636][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.05-11.58.24:640][836]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.58.24:642][836]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2026.03.05-11.58.24:643][836]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.03.05-11.58.24:643][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.58.24:643][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.58.24:643][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.58.24:643][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.58.24:643][836]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.58.24:643][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.58.24:643][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.58.24:643][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.58.24:643][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.58.24:643][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.58.24:643][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.58.24:645][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.58.24:660][836]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.58.24:660][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.58.24:660][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.58.24:660][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.58.24:661][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.03.05-11.58.24:661][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.03.05-11.58.24:664][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.03.05-11.58.24:664][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.03.05-11.58.24:664][836]LogInit: FAudioDevice initialized with ID 24.
+[2026.03.05-11.58.24:664][836]LogAudio: Display: Audio Device (ID: 24) registered with world 'TestLevel'.
+[2026.03.05-11.58.24:664][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.05-11.58.24:669][836]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.58.24:670][836]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.58.24
+[2026.03.05-11.58.24:670][836]LogWorld: Bringing up level for play took: 0.001071
+[2026.03.05-11.58.24:672][836]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.03.05-11.58.24:678][836]PIE: Server logged in
+[2026.03.05-11.58.24:680][836]PIE: Play in editor total start time 0.08 seconds.
+[2026.03.05-11.58.24:764][837]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.58.28:079][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.58.28:079][ 31]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.58.28:079][ 31]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.58.28:080][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.58.28:083][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.58.28:089][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.58.28:120][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-11.58.28:120][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.05-11.58.28:120][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.03.05-11.58.28:122][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.03.05-11.58.28:126][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.58.28:130][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.05-11.58.28:215][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.03.05-11.58.38:759][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.58.38:850][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_Player] ([2] browsable assets)...
+[2026.03.05-11.58.38:933][649]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_Player.BP_Player]
+[2026.03.05-11.58.38:933][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_Player]
+[2026.03.05-11.58.38:933][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Player" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset" SILENT=true
+[2026.03.05-11.58.38:958][649]LogSavePackage: Moving output files for package: /Game/Character/BP_Player
+[2026.03.05-11.58.38:958][649]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Player589D43E04F9DA347B5910DB780D2B8E8.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset'
+[2026.03.05-11.58.38:967][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.651 ms (total: 14.8 sec)
+[2026.03.05-11.58.39:073][649]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.58.39:073][649]LogContentValidation: Enabled validators:
+[2026.03.05-11.58.39:073][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.58.39:073][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.58.39:073][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.58.39:073][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.58.39:073][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.58.39:073][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.58.39:073][649]AssetCheck: /Game/Character/BP_Player Validating asset
+[2026.03.05-11.58.39:566][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.05-11.58.40:379][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-11.58.40:386][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-11.58.40:386][716]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.58.40:389][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003201s)
+[2026.03.05-11.58.40:390][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003256s)
+[2026.03.05-11.58.40:421][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.05-11.58.40:427][716]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-11.58.40:429][716]LogPlayLevel: PIE: World Init took: (0.002095s)
+[2026.03.05-11.58.40:430][716]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.03.05-11.58.40:430][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-11.58.40:430][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-11.58.40:430][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-11.58.40:430][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-11.58.40:430][716]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-11.58.40:430][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-11.58.40:430][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-11.58.40:430][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-11.58.40:430][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-11.58.40:430][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-11.58.40:430][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-11.58.40:432][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-11.58.40:447][716]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-11.58.40:447][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-11.58.40:447][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-11.58.40:447][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-11.58.40:448][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.03.05-11.58.40:448][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.03.05-11.58.40:451][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.03.05-11.58.40:451][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.03.05-11.58.40:451][716]LogInit: FAudioDevice initialized with ID 25.
+[2026.03.05-11.58.40:451][716]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestLevel'.
+[2026.03.05-11.58.40:451][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.03.05-11.58.40:456][716]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-11.58.40:456][716]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-11.58.40
+[2026.03.05-11.58.40:457][716]LogWorld: Bringing up level for play took: 0.000905
+[2026.03.05-11.58.40:459][716]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.03.05-11.58.40:463][716]PIE: Server logged in
+[2026.03.05-11.58.40:466][716]PIE: Play in editor total start time 0.08 seconds.
+[2026.03.05-11.58.40:547][717]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-11.58.40:785][728]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.40:786][728]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.41:538][773]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.41:538][773]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.41:854][792]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.41:854][792]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.42:938][857]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.42:938][857]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.43:855][912]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.43:855][912]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.44:438][947]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.44:438][947]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.48:321][180]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.48:321][180]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.48:922][216]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.48:922][216]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.49:472][249]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.49:472][249]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.49:838][271]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.49:838][271]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.50:438][307]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.50:438][307]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.50:638][319]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.50:638][319]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.50:805][329]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.50:805][329]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.53:438][487]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.53:438][487]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.55:305][599]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.55:305][599]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.55:838][631]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.55:838][631]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.57:939][757]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.57:939][757]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.58:188][772]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-11.58.58:188][772]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-11.58.59:479][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.58.59:479][848]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-11.58.59:479][848]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-11.58.59:479][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.58.59:485][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-11.58.59:492][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-11.58.59:522][848]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-11.58.59:522][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.03.05-11.58.59:522][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.03.05-11.58.59:524][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.03.05-11.58.59:530][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-11.58.59:533][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.05-11.58.59:615][849]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.03.05-11.59.02:004][972]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Transition.BP_Transition
+[2026.03.05-11.59.02:005][972]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.05-11.59.28:705][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.59.28:794][503]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Transition] ([2] browsable assets)...
+[2026.03.05-11.59.28:871][503]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Transition.BP_Transition]
+[2026.03.05-11.59.28:871][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Transition]
+[2026.03.05-11.59.28:871][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Transition" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset" SILENT=true
+[2026.03.05-11.59.28:886][503]LogSavePackage: Moving output files for package: /Game/BP_Transition
+[2026.03.05-11.59.28:886][503]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_TransitionE1A41A324FA1A66D1DB8028D1AE756E9.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset'
+[2026.03.05-11.59.28:895][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.441 ms (total: 14.9 sec)
+[2026.03.05-11.59.29:012][503]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.59.29:012][503]LogContentValidation: Enabled validators:
+[2026.03.05-11.59.29:012][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.59.29:012][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.59.29:012][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.59.29:012][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.59.29:012][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.59.29:013][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.59.29:013][503]AssetCheck: /Game/BP_Transition Validating asset
+[2026.03.05-11.59.30:013][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.05-11.59.41:433][168]LogSlate: Window 'Message' being destroyed
+[2026.03.05-11.59.41:439][168]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2026.03.05-11.59.47:343][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.59.47:433][489]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Transition] ([2] browsable assets)...
+[2026.03.05-11.59.47:511][489]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Transition.BP_Transition]
+[2026.03.05-11.59.47:511][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Transition]
+[2026.03.05-11.59.47:511][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Transition" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset" SILENT=true
+[2026.03.05-11.59.47:526][489]LogSavePackage: Moving output files for package: /Game/BP_Transition
+[2026.03.05-11.59.47:526][489]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_TransitionCF6803C84A3C506DC063679AC110E0A6.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset'
+[2026.03.05-11.59.47:540][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 196.842 ms (total: 15.1 sec)
+[2026.03.05-11.59.47:651][489]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.59.47:651][489]LogContentValidation: Enabled validators:
+[2026.03.05-11.59.47:651][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.59.47:651][489]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.59.47:651][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.59.47:651][489]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.59.47:651][489]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.59.47:651][489]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.59.47:651][489]AssetCheck: /Game/BP_Transition Validating asset
+[2026.03.05-11.59.48:399][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.05-11.59.51:043][681]LogBlueprint: Warning: FMemberReference::ResolveMember (Interact) bSelfContext == true, but no scope supplied!
+[2026.03.05-11.59.51:043][681]LogBlueprint: Warning: FMemberReference::ResolveMember (Interact) bSelfContext == true, but no scope supplied!
+[2026.03.05-11.59.55:436][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-11.59.55:524][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Transition] ([2] browsable assets)...
+[2026.03.05-11.59.55:600][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Transition.BP_Transition]
+[2026.03.05-11.59.55:600][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Transition]
+[2026.03.05-11.59.55:600][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Transition" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset" SILENT=true
+[2026.03.05-11.59.55:615][923]LogSavePackage: Moving output files for package: /Game/BP_Transition
+[2026.03.05-11.59.55:615][923]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_TransitionBCE5E1CE4BA98315943106845F57A153.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset'
+[2026.03.05-11.59.55:625][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.477 ms (total: 15.3 sec)
+[2026.03.05-11.59.55:753][923]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-11.59.55:753][923]LogContentValidation: Enabled validators:
+[2026.03.05-11.59.55:753][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-11.59.55:753][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-11.59.55:753][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-11.59.55:753][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-11.59.55:753][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-11.59.55:753][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-11.59.55:753][923]AssetCheck: /Game/BP_Transition Validating asset
+[2026.03.05-11.59.56:463][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.03.05-12.00.31:110][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2831.154541
+[2026.03.05-12.00.31:310][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-12.00.31:310][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2831.338135, Update Interval: 309.739685
+[2026.03.05-12.01.28:850][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.05-12.01.58:699][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-12.01.58:798][ 50]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Transition] ([2] browsable assets)...
+[2026.03.05-12.01.58:875][ 50]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Transition.BP_Transition]
+[2026.03.05-12.01.58:875][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Transition]
+[2026.03.05-12.01.58:876][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Transition" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset" SILENT=true
+[2026.03.05-12.01.58:892][ 50]LogSavePackage: Moving output files for package: /Game/BP_Transition
+[2026.03.05-12.01.58:892][ 50]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_TransitionE67421AD413FB64F0E8046BA13C52BA6.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset'
+[2026.03.05-12.01.58:903][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 203.638 ms (total: 15.5 sec)
+[2026.03.05-12.01.59:024][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-12.01.59:024][ 50]LogContentValidation: Enabled validators:
+[2026.03.05-12.01.59:024][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-12.01.59:024][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-12.01.59:024][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-12.01.59:024][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-12.01.59:024][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-12.01.59:024][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-12.01.59:024][ 50]AssetCheck: /Game/BP_Transition Validating asset
+[2026.03.05-12.01.59:297][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.05-12.02.14:235][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-12.02.14:333][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Transition] ([2] browsable assets)...
+[2026.03.05-12.02.14:333][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Transition]
+[2026.03.05-12.02.14:333][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Transition" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset" SILENT=true
+[2026.03.05-12.02.14:350][956]LogSavePackage: Moving output files for package: /Game/BP_Transition
+[2026.03.05-12.02.14:350][956]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Transition386C1CAE49DFADDB0DF354AF17698D99.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset'
+[2026.03.05-12.02.14:360][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.179 ms (total: 15.7 sec)
+[2026.03.05-12.02.14:479][956]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-12.02.14:479][956]LogContentValidation: Enabled validators:
+[2026.03.05-12.02.14:479][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-12.02.14:479][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-12.02.14:479][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-12.02.14:479][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-12.02.14:479][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-12.02.14:479][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-12.02.14:479][956]AssetCheck: /Game/BP_Transition Validating asset
+[2026.03.05-12.02.14:853][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.05-12.02.18:028][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-12.02.18:123][158]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Transition] ([2] browsable assets)...
+[2026.03.05-12.02.18:200][158]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Transition.BP_Transition]
+[2026.03.05-12.02.18:200][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Transition]
+[2026.03.05-12.02.18:200][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Transition" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset" SILENT=true
+[2026.03.05-12.02.18:216][158]LogSavePackage: Moving output files for package: /Game/BP_Transition
+[2026.03.05-12.02.18:216][158]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/BP_Transition629BE9CA4A3EFC8716BAC58F2A25BF7E.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/BP_Transition.uasset'
+[2026.03.05-12.02.18:227][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.380 ms (total: 15.9 sec)
+[2026.03.05-12.02.18:365][158]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-12.02.18:365][158]LogContentValidation: Enabled validators:
+[2026.03.05-12.02.18:365][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-12.02.18:365][158]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-12.02.18:365][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-12.02.18:365][158]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-12.02.18:365][158]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-12.02.18:365][158]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-12.02.18:365][158]AssetCheck: /Game/BP_Transition Validating asset
+[2026.03.05-12.02.19:089][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.05-12.02.20:665][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-12.02.20:671][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-12.02.20:671][287]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-12.02.20:674][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003153s)
+[2026.03.05-12.02.20:674][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003194s)
+[2026.03.05-12.02.20:706][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.03.05-12.02.20:710][287]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-12.02.20:712][287]LogPlayLevel: PIE: World Init took: (0.001961s)
+[2026.03.05-12.02.20:713][287]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.03.05-12.02.20:713][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-12.02.20:713][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-12.02.20:713][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-12.02.20:713][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-12.02.20:713][287]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-12.02.20:713][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-12.02.20:713][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-12.02.20:713][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-12.02.20:713][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-12.02.20:713][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-12.02.20:713][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-12.02.20:715][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-12.02.20:733][287]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-12.02.20:733][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-12.02.20:734][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-12.02.20:734][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-12.02.20:734][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.03.05-12.02.20:734][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.03.05-12.02.20:736][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.03.05-12.02.20:736][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.03.05-12.02.20:736][287]LogInit: FAudioDevice initialized with ID 26.
+[2026.03.05-12.02.20:736][287]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestLevel'.
+[2026.03.05-12.02.20:736][287]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.05-12.02.20:742][287]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-12.02.20:743][287]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-12.02.20
+[2026.03.05-12.02.20:743][287]LogWorld: Bringing up level for play took: 0.001081
+[2026.03.05-12.02.20:745][287]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.03.05-12.02.20:751][287]PIE: Server logged in
+[2026.03.05-12.02.20:753][287]PIE: Play in editor total start time 0.082 seconds.
+[2026.03.05-12.02.20:836][288]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-12.02.23:314][433]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.25:632][572]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.26:947][651]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.28:604][749]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.30:537][865]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.30:537][865]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.30:937][889]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.30:937][889]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.31:238][907]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.31:238][907]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.31:404][917]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.31:404][917]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.32:054][956]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.32:054][956]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.32:770][999]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.32:771][999]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.34:319][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-12.02.34:319][ 90]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-12.02.34:319][ 90]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.02.34:320][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.02.34:330][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-12.02.34:335][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.02.34:365][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-12.02.34:365][ 90]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.05-12.02.34:365][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.03.05-12.02.34:367][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.03.05-12.02.34:371][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-12.02.34:374][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.05-12.02.34:459][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.03.05-12.02.40:120][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-12.02.40:208][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.05-12.02.40:268][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.03.05-12.02.40:290][383]LogSavePackage: Moving output files for package: /Game/TestLevel
+[2026.03.05-12.02.40:290][383]LogSavePackage: Moving '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Saved/TestLevel77E13AEA442A9DE29BA0808E60FC591F.tmp' to '../../../../../Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap'
+[2026.03.05-12.02.40:299][383]LogFileHelpers: Saving map 'TestLevel' took 0.091
+[2026.03.05-12.02.40:311][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.530 ms (total: 16.1 sec)
+[2026.03.05-12.02.40:448][383]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-12.02.40:448][383]LogContentValidation: Enabled validators:
+[2026.03.05-12.02.40:448][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-12.02.40:448][383]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-12.02.40:448][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-12.02.40:448][383]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-12.02.40:448][383]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-12.02.40:448][383]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-12.02.40:448][383]AssetCheck: /Game/TestLevel Validating asset
+[2026.03.05-12.02.50:582][980]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-12.02.50:589][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-12.02.50:590][980]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2026.03.05-12.02.50:593][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003409s)
+[2026.03.05-12.02.50:593][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.003455s)
+[2026.03.05-12.02.50:626][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.05-12.02.50:629][980]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.03.05-12.02.50:631][980]LogPlayLevel: PIE: World Init took: (0.002096s)
+[2026.03.05-12.02.50:632][980]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.03.05-12.02.50:632][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-12.02.50:632][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-12.02.50:632][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-12.02.50:632][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-12.02.50:632][980]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-12.02.50:632][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-12.02.50:632][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-12.02.50:632][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-12.02.50:632][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-12.02.50:632][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-12.02.50:632][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-12.02.50:634][980]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-12.02.50:651][980]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Calum's Pixel Buds Pro)
+[2026.03.05-12.02.50:652][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-12.02.50:652][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-12.02.50:652][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-12.02.50:652][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.03.05-12.02.50:652][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.03.05-12.02.50:655][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.03.05-12.02.50:655][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.03.05-12.02.50:655][980]LogInit: FAudioDevice initialized with ID 27.
+[2026.03.05-12.02.50:655][980]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestLevel'.
+[2026.03.05-12.02.50:655][980]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.05-12.02.50:660][980]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2026.03.05-12.02.50:661][980]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.03.05-12.02.50
+[2026.03.05-12.02.50:662][980]LogWorld: Bringing up level for play took: 0.001051
+[2026.03.05-12.02.50:664][980]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.03.05-12.02.50:670][980]PIE: Server logged in
+[2026.03.05-12.02.50:672][980]PIE: Play in editor total start time 0.083 seconds.
+[2026.03.05-12.02.50:765][981]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-12.02.54:133][179]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.56:016][292]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.57:916][406]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.57:916][406]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.58:766][457]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.58:766][457]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.02.59:632][509]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.02.59:632][509]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.03.00:466][559]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.03.00:467][559]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.03.00:815][580]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.03.00:816][580]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.03.01:199][603]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.03.01:199][603]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.03.01:766][637]LogBlueprintUserMessages: [BP_NPC_C_1] Interacted with BP_NPC_C_1
+[2026.03.05-12.03.01:766][637]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.03.04:233][785]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.03.05:783][878]LogBlueprintUserMessages: [BP_Player_C_0] Was Interact Successful - true
+[2026.03.05-12.03.06:589][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-12.03.06:589][925]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2026.03.05-12.03.06:589][925]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.03.06:589][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.03.06:594][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-12.03.06:600][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.03.06:631][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-12.03.06:631][925]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.05-12.03.06:632][925]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.03.05-12.03.06:634][925]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.03.05-12.03.06:641][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.05-12.03.06:698][926]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.03.05-12.03.34:540][726]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.03.05-12.03.34:540][726]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{832738d8-c183-4452-a9dc-eccf6c41c1e3}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.05-12.03.34:717][726]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{832738d8-c183-4452-a9dc-eccf6c41c1e3}]
+[2026.03.05-12.03.34:717][726]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.05-12.03.34:717][726]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.05-12.03.35:052][727]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{832738d8-c183-4452-a9dc-eccf6c41c1e3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=181.80
+[2026.03.05-12.03.35:053][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.05-12.03.35:053][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.05-12.03.35:054][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.05-12.06.31:762][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3191.808838
+[2026.03.05-12.06.32:761][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-12.06.32:761][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3192.475098, Update Interval: 311.861938
+[2026.03.05-12.08.46:450][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.03.05-12.08.46:487][750]LogStall: Shutdown...
+[2026.03.05-12.08.46:487][750]LogStall: Shutdown complete.
+[2026.03.05-12.08.46:545][750]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.46:545][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.46:602][750]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.46:602][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.46:665][750]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.05-12.08.46:665][750]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.46:665][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.46:742][750]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.05-12.08.46:742][750]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.46:742][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.46:790][750]LogSlate: Window 'ShelfGame - Unreal Editor' being destroyed
+[2026.03.05-12.08.47:042][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.03.05-12.08.47:075][750]Cmd: QUIT_EDITOR
+[2026.03.05-12.08.47:075][751]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.05-12.08.47:081][751]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.05-12.08.47:082][751]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.05-12.08.47:082][751]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.05-12.08.47:083][751]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.47:083][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.47:094][751]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.05-12.08.47:094][751]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.05-12.08.47:094][751]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.05-12.08.47:101][751]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.47:101][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.47:108][751]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.47:108][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.47:114][751]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.47:114][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.47:120][751]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.47:120][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.47:127][751]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.47:127][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.47:133][751]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-12.08.47:133][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-12.08.47:138][751]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.05-12.08.47:138][751]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.05-12.08.47:141][751]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.05-12.08.47:621][751]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.05-12.08.47:621][751]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.05-12.08.47:621][751]LogAudio: Display: Audio Device unregistered from world 'TestLevel'.
+[2026.03.05-12.08.47:621][751]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.05-12.08.47:621][751]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.05-12.08.47:623][751]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.05-12.08.47:628][751]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.05-12.08.47:628][751]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.05-12.08.47:629][751]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.05-12.08.47:632][751]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.05-12.08.47:633][751]LogExit: Preparing to exit.
+[2026.03.05-12.08.47:672][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:678][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:679][751]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.47:679][751]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.05-12.08.48:142][751]LogEditorDataStorage: Deinitializing
+[2026.03.05-12.08.48:268][751]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.05-12.08.48:281][751]LogExit: Editor shut down
+[2026.03.05-12.08.48:284][751]LogExit: Transaction tracking system shut down
+[2026.03.05-12.08.48:447][751]LogExit: Object subsystem successfully closed.
+[2026.03.05-12.08.48:487][751]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.05-12.08.48:576][751]LogMemoryProfiler: Shutdown
+[2026.03.05-12.08.48:576][751]LogNetworkingProfiler: Shutdown
+[2026.03.05-12.08.48:576][751]LoadingProfiler: Shutdown
+[2026.03.05-12.08.48:576][751]LogTimingProfiler: Shutdown
+[2026.03.05-12.08.48:576][751]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.05-12.08.48:576][751]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.05-12.08.48:842][751]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.05-12.08.48:866][751]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.05-12.08.48:866][751]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B68184838-4D97-9F27-DDF7-03B8C0D130A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=bb898118419823fee5fb829aaf686b39%7C30529a6f04e24b858318a9d20e275c29%7C48fa9d12-88e7-4e03-a9ac-f3468f00d4a9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.05-12.08.49:423][751]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.05-12.08.49:423][751]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.05-12.08.49:423][751]RenderDocPlugin: plugin has been unloaded.
+[2026.03.05-12.08.49:429][751]LogXGEController: Cleaning working directory: C:/Users/calum/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.05-12.08.49:432][751]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.05-12.08.49:432][751]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.05-12.08.49:432][751]LogPakFile: Destroying PakPlatformFile
+[2026.03.05-12.08.49:695][751]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.05-12.08.49:717][751]LogExit: Exiting.
+[2026.03.05-12.08.49:739][751]Log file closed, 03/05/26 12:08:49
