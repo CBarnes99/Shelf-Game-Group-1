@@ -6,8 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/ThirdPersonImport/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap",
 				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset",
+				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/Characters/Player/BP_Player.uasset",
+				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/Levels/TestLevel.umap",
+				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/Interfaces/BPI_Interact.uasset",
+				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/Objects/BP_InteractableCube.uasset",
+				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap",
 				"D:/Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/TestLevel.umap",
 				"D:/Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/ThirdPersonImport/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset",
 				"D:/Game Projects/Unreal Engine/Shelf-Game-Group-1/ShelfGame/Content/ThirdPersonImport/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
