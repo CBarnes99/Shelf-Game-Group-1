@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2400499/Downloads/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset",
+				"C:/Users/2400499/Downloads/Shelf-Game-Group-1/ShelfGame/Content/Objects/BP_InteractableCube.uasset",
+				"C:/Users/2400499/Downloads/Shelf-Game-Group-1/ShelfGame/Content/Levels/TestLevel.umap",
+				"C:/Users/2400499/Downloads/Shelf-Game-Group-1/ShelfGame/Content/Characters/Player/BP_Player.uasset",
 				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/ThirdPersonImport/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/Character/BP_Player.uasset",
 				"C:/Users/ellie/Documents/GitHub/Shelf-Game-Group-1/ShelfGame/Content/Characters/Player/BP_Player.uasset",
